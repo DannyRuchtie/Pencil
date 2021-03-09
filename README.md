@@ -24,4 +24,5 @@ A lightweight drawing app optimized for the Apple Pencil.
 - Mobile Layout
 
 
+[Demo]( https://dce28.csb.app/)
 [Open CodeSandbox](https://codesandbox.io/s/pencil-v09-dce28)
