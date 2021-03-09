@@ -1,0 +1,9 @@
+{
+  "name": "pencil",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo \"no build required\""
+  },
+
