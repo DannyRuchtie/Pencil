@@ -15,13 +15,13 @@ A lightweight drawing app optimized for the Apple Pencil.
 - azimuthAngle
  
 ### Todo 
-- Background grids 
-- aria-labels
-- Responsive resize 
-- Electron App
-- Websockets for Multiplayer
-- Right-hand layout
-- Mobile Layout
+[] Background grids 
+[] aria-labels
+[] Responsive resize 
+[] Electron App
+[] Websockets for Multiplayer
+[] Right-hand layout
+[] Mobile Layout
 
 
 [Demo]( https://dce28.csb.app/)
