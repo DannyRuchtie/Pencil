@@ -459,7 +459,7 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 
-@media (min-width: 576px) { 
+@media (max-width: 576px) { 
 
   #markup {
     position: fixed;
