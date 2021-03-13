@@ -457,3 +457,22 @@ input[type="range"]::-webkit-slider-thumb {
     fill: rgb(0, 122, 255);
   }
 }
+
+
+
+
+@media (max-width: 576px) { 
+
+  #markup {
+    position: fixed;
+    z-index: 2;
+    bottom: 1rem;
+    left: 50%;
+    margin-left:-8rem;
+    width: 4rem;
+    height: 4rem;
+
+
+  }
+
+}
